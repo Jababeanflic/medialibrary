@@ -41,7 +41,7 @@ public class Media {
 
     /**
      * @param Name String
-     *             mName setter
+     * mName setter
      */
     public void setmName(String Name) {
         mName = Name;
